@@ -1,0 +1,25 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {chapter}{Перелік умовних позначень, скорочень і термінів}{2}{chapter*.1}%
+\contentsline {chapter}{Вступ}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Застосування штучного інтелекту в криптографії, при підбиранні паролів та їх гешів}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}використання аі в крипті}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Використання ШІ та evolutionary computing для генерування алгоритмів шифрування}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Applications of Neural Network-Based AI in Cryptography}{5}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}означення геш функцій, ???мд5 геш функції???}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Password Guessing via Neural Language Modeling, щось типу імовірністі та нейро підходи до взламу паролів, мб розділити на дві секції}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Rule based models}{8}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Імовірністі моделі}{9}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Марковська модель}{9}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Модель PCFG}{10}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}Deep learning based models}{11}{section.1.6}%
+\contentsline {section}{\numberline {1.7}GNPassGAN: Improved Generative Adversarial Networks For Trawling Offline Password Guessing}{12}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Generative Adversarial Networks (GANs) networks overview}{12}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Common use cases of GANs}{12}{subsection.1.7.2}%
+\contentsline {section}{Висновки до розділу \ref {chap:review}}{13}{subsection.1.7.2}%
+\contentsline {chapter}{\numberline {2}(Назва другого розділу)}{14}{chapter.2}%
+\contentsline {section}{Висновки до розділу \ref {chap:theory}}{14}{section*.4}%
+\contentsline {chapter}{Висновки}{15}{chapter*.5}%
+\contentsline {chapter}{Перелік посилань}{16}{chapter*.6}%
+\contentsline {chapter}{Додаток \CYRA \ Тексти програм}{19}{chapter*.7}%
+\contentsline {section}{\numberline {\CYRA .1}Програма 1}{19}{section.0.1}%
+\contentsline {chapter}{Додаток \CYRB \ Великі рисунки та таблиці}{20}{chapter*.8}%
