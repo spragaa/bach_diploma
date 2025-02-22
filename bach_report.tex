@@ -17,6 +17,12 @@
 % Створюємо титульну сторінку
 \input{a1_title}
 
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
 %% Створюємо зміст    % -- розкоментуйте, якщо зміст вам потрібен
 \pagenumbering{gobble}
 \tableofcontents

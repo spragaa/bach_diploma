@@ -78,11 +78,12 @@
 \urlstyle{same}         % текст гіперпосилань буде того ж шрифту, що й основний текст
 
 % стиль сторінки для позиції номеру сторінки
+\pagestyle{plain}
 \fancypagestyle{plain}{
-        \fancyhf{}
-        \rhead{\thepage}
-                \renewcommand{\headrulewidth}{0pt}
-                \renewcommand{\footrulewidth}{0pt}
+    \fancyhf{} % Clear all headers/footers
+    \rhead{\thepage} % Page number in right header
+    \renewcommand{\headrulewidth}{0pt} % No header line
+    \renewcommand{\footrulewidth}{0pt} % No footer line
 }
 
 
