@@ -1,0 +1,3 @@
+[submodule "GNPassGAN"]
+	path = GNPassGAN
+	url = https://github.com/spragaa/GNPassGAN.git
